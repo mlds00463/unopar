@@ -1,1 +1,9 @@
+Chave de acesso criada em:
+
+https://docs.github.com/pt/github-ae@latest/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
+CHAVE:
+
+
 https://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@github.com/mlds00463/unopar
